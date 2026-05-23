@@ -44,7 +44,7 @@ Customer support teams receive a high volume of messages daily. Manually reading
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/support-ticket-classifier.git
+git clone https://github.com/roshankumars0205/support-ticket-classifier.git
 cd support-ticket-classifier
 ```
 
